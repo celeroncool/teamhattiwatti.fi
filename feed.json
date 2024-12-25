@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "teamhattiwatti.fi",
+    "description": "",
+    "home_page_url": "https://teamhattiwatti.fi",
+    "feed_url": "https://teamhattiwatti.fi/feed.json",
+    "user_comment": "",
+    "icon": "https://teamhattiwatti.fi/media/website/logo.svg",
+    "author": {
+        "name": "Sami Nieminen"
+    },
+    "items": [
+    ]
+}
